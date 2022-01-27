@@ -1,0 +1,10 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Gorget_MOD_INFO",
+    "name": "Gorget 4 U",
+    "authors": [ "MundaneRaven_MM0211" ],
+    "description": "Adds armor to the drop lists and spawn locations, also a few recipies.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
