@@ -1,0 +1,23 @@
+]
+ 
+ ​[ 
+ ​  { 
+ ​    ​"id"​: ​"​Economy_Steel_Gorget​"​, 
+ ​    ​"type"​: ​"​ARMOR​"​, 
+ ​    ​"name"​: { ​"str"​: ​"​Economy Steel Gorget​"​ ​}, 
+ ​    ​"description"​: ​"​A piece of Metal armor ment to protect the throat and neck.​"​, 
+ ​    ​"weight"​: ​"​1020 g​"​, 
+ ​    ​"volume"​: ​"​4 L​"​, 
+ ​    ​"price"​: ​50000​, 
+ ​    ​"price_postapoc"​: ​50​0, 
+ ​    ​"to_hit"​: ​-2​, 
+ ​    ​"material"​: [ ​"​Economy_Steel​"​ ​], 
+ ​    ​"symbol"​: ​"​[​"​, 
+ ​    ​"looks_like"​: ​"​scarf​"​, 
+ ​    ​"color"​: ​"​Gray​"​, 
+ ​    ​"warmth"​: ​20​, 
+ ​    ​"material_thickness"​: ​1​, 
+ ​    ​"flags"​: [ ​"​OVERSIZE​"​,​ ​"​FANCY​"​, ​"​ALLOWS_NATURAL_ATTACKS​"​ ​], 
+ ​    ​"armor"​: [ { ​"encumbrance"​: ​25, ​"coverage"​: ​80​, ​"covers"​: [ ​"​neck​"​ ​] } ]
+}
+]
