@@ -16,7 +16,7 @@
  ​    ​"warmth"​: ​20​, 
  ​    ​"material_thickness"​: ​1​, 
  ​    ​"flags"​: [ ​"​OVERSIZE​"​, "OUTER​"​, ​"​ALLOWS_NATURAL_ATTACKS​"​ ​], 
- ​    ​"armor"​: [ { ​"encumbrance"​: ​15, ​"coverage"​: ​85​, ​"covers"​: [ ​"​mouth​"​ ​] } ]
+ ​    ​"armor"​: [ { ​"encumbrance"​: ​15, ​"coverage"​: ​85​, ​"covers"​: [ ​"​mouth​"​ ​]
 },
 {
 ​​"id"​: ​"medium_steel_gorget​"​, 
