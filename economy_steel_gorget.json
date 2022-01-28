@@ -2,9 +2,9 @@
  
  ​[ 
  ​  { 
- ​    ​"id"​: ​"Low_Steel_Gorget​"​, 
+ ​    ​"id"​: ​"low_carbon_gorget​"​, 
  ​    ​"type"​: ​"​ARMOR​"​, 
- ​    ​"name"​: { ​"str"​: ​"​Low Carbon Steel Gorget​"​ ​}, 
+ ​    ​"name"​: { ​"str"​: ​"​Low Steel Gorget​"​ ​}, 
  ​    ​"description"​: ​"​A piece of Metal armor ment to protect the throat and neck.​"​, 
  ​    ​"weight"​: ​"​1020 g​"​, 
  ​    ​"volume"​: ​"​4 L​"​, 
@@ -18,6 +18,37 @@
  ​    ​"warmth"​: ​20​, 
  ​    ​"material_thickness"​: ​1​, 
  ​    ​"flags"​: [ ​"​OVERSIZE​"​, "OUTER​"​, ​"​ALLOWS_NATURAL_ATTACKS​"​ ​], 
- ​    ​"armor"​: [ { ​"encumbrance"​: ​25, ​"coverage"​: ​80​, ​"covers"​: [ ​"​mouth​"​ ​] } ]
+ ​    ​"armor"​: [ { ​"encumbrance"​: ​15, ​"coverage"​: ​85​, ​"covers"​: [ ​"​mouth​"​ ​] } ]
 },
 {
+​​"id"​: ​"medium_steel_gorget​"​, 
+​​"type"​: ​"​ARMOR​"​, 
+"copy-from": "medium_gorget" 
+​​"name"​: { ​"str"​: ​"​Medium Steel Gorget​"​ ​}, 
+​"description"​: ​"​A piece of armor meant to protect the throat and neck, made from medium carbon steel.​"​, 
+​"material"​: [ ​"​med_steel"​ ​]
+},
+{
+​​"id"​: ​"high_steel_gorget​"​, 
+​​"type"​: ​"​ARMOR​"​, 
+"copy-from": "high_gorget" 
+​​"name"​: { ​"str"​: ​"​High Steel Gorget​"​ ​}, 
+​"description"​: ​"​A piece of armor meant to protect the throat and neck, made from medium carbon steel.​"​, 
+​"material"​: [ ​"​high_steel"​ ​]
+},
+{
+​​"id"​: ​"case_steel_gorget​"​, 
+​​"type"​: ​"​ARMOR​"​, 
+"copy-from": "case_gorget" 
+​​"name"​: { ​"str"​: ​"​Case Steel Gorget​"​ ​}, 
+​"description"​: ​"​A piece of armor meant to protect the throat and neck, made from medium carbon steel.​"​, 
+​"material"​: [ ​"​case_hardened_steel"​ ​]
+},
+{
+​​"id"​: ​"tempered_steel_gorget​"​, 
+​​"type"​: ​"​ARMOR​"​, 
+"copy-from": "tempered_gorget" 
+​​"name"​: { ​"str"​: ​"​Tempered Steel Gorget​"​ ​}, 
+​"description"​: ​"​A piece of armor meant to protect the throat and neck, made from medium carbon steel.​"​, 
+​"material"​: [ ​"tempered​_steel"​ ​]
+},
