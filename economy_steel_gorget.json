@@ -1,6 +1,6 @@
  [ 
  ​  { 
- ​    ​"id"​: ​"low_carbon_gorget​"​, 
+ ​    ​"id"​: ​"low_gorget​"​, 
  ​    ​"type"​: ​"​ARMOR​"​, 
  ​    ​"name"​: { ​"str"​: ​"​Low Steel Gorget​"​ ​}, 
  ​    ​"description"​: ​"​A piece of Metal armor ment to protect the throat and neck.​"​, 
@@ -21,7 +21,7 @@
 {
 ​​"id"​: ​"medium_steel_gorget​"​, 
 ​​"type"​: ​"​ARMOR​"​, 
-"copy-from": "medium_gorget" 
+"copy-from": "low_gorget" 
 ​​"name"​: { ​"str"​: ​"​Medium Steel Gorget​"​ ​}, 
 ​"description"​: ​"​A piece of armor meant to protect the throat and neck, made from medium carbon steel.​"​, 
 ​"material"​: [ ​"​med_steel"​ ​]
