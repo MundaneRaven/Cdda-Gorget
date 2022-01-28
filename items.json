@@ -19,6 +19,14 @@
  		"material_thickness": 1,
  		"flags": ["OVERSIZE", "OUTER", "ALLOWS_NATURAL_ATTACKS"],
  		"armor": [{
+                                "armor_data": {
+      "armor": [
+        {
+          "material": [
+            { "type": "low_steel", "covered_by_mat": 85, "thickness": 1.0 },
+            { "type": "low_steel", "covered_by_mat": 95, "thickness": 1.0 },
+            { "type": "leather", "covered_by_mat": 15, "thickness": 1.0 }
+
  				"encumbrance": 15,
  				"coverage": 85,
  				"covers": ["mouth"]
